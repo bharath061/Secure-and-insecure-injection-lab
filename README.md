@@ -4,7 +4,7 @@ An interactive demo of **prompt injection** and how to defend against it.
 
 Two simulated agents get the same request and the same untrusted text (a web page, email, file name, or tool error). One obeys whatever it reads. The other treats it as data and asks the user before any risky action.
 
-**Live demo:** https://YOUR-USERNAME.github.io/injection-lab/
+**Live demo:** https://bharath061.github.io/injection-lab/
 
 ## What it shows
 
